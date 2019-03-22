@@ -1,2 +1,3 @@
 name: Lee Ritholtz
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
