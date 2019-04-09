@@ -1,4 +1,5 @@
 name: Lee Ritholtz
+github_username: leeritholtz
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-minimal

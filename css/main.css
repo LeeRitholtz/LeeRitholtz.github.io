@@ -24,7 +24,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
 }
@@ -41,3 +41,28 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.rover {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    /* float: right; */
+  }
+
+.sensors {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+.battery {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+.steering {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
