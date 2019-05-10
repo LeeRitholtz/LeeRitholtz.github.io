@@ -42,7 +42,7 @@ For interfacing with the motor controller shield I used the [Adafruit Motor Shie
 
 Steering was an interesting subject for me.  During the process of figuring out steering for this rover, I realized just how little I've thought about the topic.  I drive a vehicle every day, and take all types of wheeled transportation, and I never think about the concepts behind how they steer.
 
-The Whippersnapper does not have turnable steering.  That means the wheels can only commanded to go forwards and backwards — there is no ability to articulate the wheels to achieve a turn.  So turning needs to be done via [differential steering](https://en.wikipedia.org/wiki/Differential_steering).  The figure below, from [this paper](https://www.researchgate.net/publication/228457498_Java_simulator_for_an_autonomous_mobile_robot_operating_in_the_presence_of_sensor_faults), does a pretty good job of depicting differential steering.
+The Whippersnapper does not have turnable steering.  That means the wheels can only be commanded to go forwards and backwards — there is no ability to articulate the wheels left and right to execute a turn.  So turning needs to be done via [differential steering](https://en.wikipedia.org/wiki/Differential_steering).  The figure below, from [this paper](https://www.researchgate.net/publication/228457498_Java_simulator_for_an_autonomous_mobile_robot_operating_in_the_presence_of_sensor_faults), does a pretty good job of depicting differential steering.
 
 {:.steering}
 ![Image of Differential Steering]({{ site.url }}/assets/differential_steering.png)
