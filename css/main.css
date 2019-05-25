@@ -67,6 +67,6 @@ ul.posts li {
     padding-top: 10px;
   }
 
-.blurb {
-    padding-bottom: 75px;    
+.container {
+    height: 450px; 
 }
