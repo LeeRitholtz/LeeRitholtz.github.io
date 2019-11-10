@@ -70,3 +70,20 @@ ul.posts li {
 .blurb {
     height: 450px; 
 }
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    border-spacing: 5px;
+    border-collapse: collapse;
+}
+
+ol {
+    font-size: 18px;
+    margin-left: 25px;
+}
+
+li {
+    margin: 10px 0;
+}
